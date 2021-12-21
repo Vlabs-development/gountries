@@ -13,6 +13,9 @@ tlds:
 languages:
   bul: Bulgarian
 translations:
+  ENG:
+    common: Bulgaria
+    official: Republic of Bulgaria
   DEU:
     common: Bulgarien
     official: Republik Bulgarien
