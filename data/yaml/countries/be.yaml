@@ -27,6 +27,9 @@ translations:
   DEU:
     common: Belgien
     official: Königreich Belgien
+  ENG:
+    common: Belgium
+    official: Kingdom of Belgium
   FIN:
     common: Belgia
     official: Belgian kuningaskunta
