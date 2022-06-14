@@ -13,6 +13,9 @@ tlds:
 languages:
   ell: Greek
 translations:
+  ENG:
+    common: Greece
+    official: Hellenic Republic
   DEU:
     common: Griechenland
     official: Hellenische Republik

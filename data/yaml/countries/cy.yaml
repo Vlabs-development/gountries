@@ -17,6 +17,12 @@ languages:
   ell: Greek
   tur: Turkish
 translations:
+  DEU:
+    common: Zypern
+    official: Republik Zypern
+  ENG:
+    common: Cyprus
+    official: Republic of Cyprus
   FIN:
     common: Kypros
     official: Kyproksen tasavalta

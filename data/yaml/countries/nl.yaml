@@ -13,6 +13,12 @@ tlds:
 languages:
   nld: Dutch
 translations:
+  DEU:
+    common: Niederlande
+    official: Niederlande
+  ENG:
+    common: Netherlands
+    official: Netherlands
   FIN:
     common: Alankomaat
     official: Alankomaat

@@ -13,6 +13,12 @@ tlds:
 languages:
   dan: Danish
 translations:
+  ENG:
+    common: Denmark
+    official: Denmark
+  DEU:
+    common: Dänemark
+    official: Dänemark
   FIN:
     common: Tanska
     official: Tanskan kuningaskunta

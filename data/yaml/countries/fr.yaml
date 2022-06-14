@@ -13,6 +13,9 @@ tlds:
 languages:
   fra: French
 translations:
+  ENG:
+    common: France
+    official: French Republic
   DEU:
     common: Frankreich
     official: Französische Republik

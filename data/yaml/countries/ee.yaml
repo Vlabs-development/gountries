@@ -19,6 +19,9 @@ translations:
   DEU:
     common: Estland
     official: Republik Estland
+  ENG:
+    common: Estonia
+    official: Republic of Estonia
   FIN:
     common: Viro
     official: Viron tasavalta

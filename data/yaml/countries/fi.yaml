@@ -17,6 +17,12 @@ languages:
   fin: Finnish
   swe: Swedish
 translations:
+  ENG:
+    common: Finland
+    official: Republic of Finland
+  DEU:
+    common: Finnland
+    official: Republik Finnland
   FRA:
     common: Finlande
     official: République de Finlande

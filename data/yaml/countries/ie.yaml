@@ -17,6 +17,12 @@ languages:
   eng: English
   gle: Irish
 translations:
+  DEU:
+    common: Irland
+    official: Irland
+  ENG:
+    common: Ireland
+    official: Ireland
   FIN:
     common: Irlanti
     official: Irlannin tasavalta

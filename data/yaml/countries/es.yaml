@@ -32,6 +32,9 @@ translations:
   DEU:
     common: Spanien
     official: Königreich Spanien
+  ENG:
+    common: Spain
+    official: Kingdom of Spain
   FRA:
     common: Espagne
     official: Royaume d'Espagne

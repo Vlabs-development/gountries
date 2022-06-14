@@ -24,6 +24,9 @@ translations:
   DEU:
     common: Luxemburg
     official: Großherzogtum Luxemburg,
+  ENG:
+    common: Luxembourg
+    official: Grand Duchy of Luxembourg,
   FIN:
     common: Luxemburg
     official: Luxemburgin suurherttuakunta

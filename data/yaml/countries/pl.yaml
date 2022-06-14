@@ -16,6 +16,9 @@ translations:
   DEU:
     common: Polen
     official: Republik Polen
+  ENG:
+    common: Poland
+    official: Republic of Poland
   FRA:
     common: Pologne
     official: République de Pologne

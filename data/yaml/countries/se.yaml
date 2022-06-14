@@ -16,6 +16,9 @@ translations:
   DEU:
     common: Schweden
     official: Königreich Schweden
+  ENG:
+    common: Sweden
+    official: Kingdom of Sweden
   FIN:
     common: Ruotsi
     official: Ruotsin kuningaskunta
