@@ -21,8 +21,14 @@ languages:
   pus: Pashto
   tuk: Turkmen
 translations:
+  DEU:
+    common: Afghanistan
+    official: Islamic Republic of Afghanistan
+  ENG:
+    common: Afghanistan
+    official: Islamic Republic of Afghanistan
   CYM:
-    common: Affganistan
+    common: Afghanistan
     official: Islamic Republic of Afghanistan
   NLD:
     common: Afghanistan

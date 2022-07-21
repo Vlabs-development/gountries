@@ -23,6 +23,9 @@ translations:
   DEU:
     common: Armenien
     official: Republik Armenien
+  ENG:
+    common: Armenia
+    official: Republic of Armenia
   FIN:
     common: Armenia
     official: Armenian tasavalta
